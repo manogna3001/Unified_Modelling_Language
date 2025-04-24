@@ -1,0 +1,379 @@
+{
+  "users": [
+    {
+      "username": "test1",
+      "email": "test1@gmail.com",
+      "password": "$2b$10$nq4iI/BzZziUSWcJAoXite0KFw9PwRSzQE0.1zsl5C1Du4a5Hh.x6",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "test2",
+      "email": "test2@gmail.com",
+      "password": "$2b$10$r27glEsh5YDX09JPljT8I./ELFNa29EBQtppiL5uVoFULUXBIwYPm",
+      "persona": "Faculty",
+      "isEnabled": true
+    },
+    {
+      "username": "test3",
+      "email": "test@gmail.com",
+      "password": "$2b$10$gWjZIZbES8jpoWghhSGTzeYvTCFP4gDavY1HEup/sOwG2MjYqFotq",
+      "persona": "Staff"
+    },
+    {
+      "username": "test5",
+      "email": "test5@gmail.com",
+      "password": "$2b$10$qqmFPiLKvfcG5CzvD2yMLuYbbceHuHdzEqcqxTiPTqpkwIqWTJbu2",
+      "persona": "Administrator",
+      "isEnabled": true
+    },
+    {
+      "username": "testadmin",
+      "email": "admin@gmail.com",
+      "password": "$2b$10$4gSSYgnXjiIsw4yZrliMtuD5JPkqkSHJcicW107EEWxTVQNTmoeVa",
+      "persona": "Administrator",
+      "isEnabled": true
+    },
+    {
+      "username": "test4",
+      "email": "test4@gmail.com",
+      "password": "$2b$10$Lyytwcx58M/rChLEJvkgFuVWCIRH49TxJe5dM4EOcavEsungx0Mm.",
+      "persona": "Moderator",
+      "isEnabled": true
+    },
+    {
+      "username": "student",
+      "email": "student@gmail.com",
+      "password": "$2b$10$RPXG.m2nMe/ahimfMLfRou8ZcDCHOxzfv9LJW9Ztdjbn7.HDR0Dc6",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "student1",
+      "email": "student1@gmail.com",
+      "password": "$2b$10$8FUMjOhvNxCRW0pazriTju6LG7KFECLyqpHgHZNXJkYTV4nFXAuti",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "student2",
+      "email": "student2@gmail.com",
+      "password": "$2b$10$TOo5KUrfITlo5ykzWwDqZe/uvCOjfNhiI7c9/8W2PkGXdw1w38ypS",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "manogna",
+      "email": "manogna@gmail.com",
+      "password": "$2b$10$piViPFffKYUE2OYJ9dGDPeOZCLT3F9PbtaySnFqXMFas8eWZTqJAu",
+      "persona": "Student",
+      "isEnabled": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "2b927ce6-ab1f-49d1-badd-7a82d040c20c",
+      "title": "CampusEDU and Strategic Assurance Consulting Announce Educational Partnership",
+      "content": "CampusEDU and Strategic Assurance Consulting Announce Educational Partnership\n\n\n\nCampusEDU is excited to announce an innovative partnership with Strategic Assurance Consulting, a pioneering educational consulting firm. This collaboration aims to expand educational opportunities and enhance learning experiences through the advanced Campus Learn platform.\n\n\n\nThe partnership will focus on the exchange of software products and services pivotal in the development and delivery of online courses. Strategic Assurance Consulting will utilize the Campus Learn platform to offer specialized courses, ensuring a seamless and enriched learning environment for their clientele.\n\n\n\nPartnership Highlights:\n\nInnovative Learning: Strategic Assurance Consulting will have the capability to build tailored courses within their expertise category on the Moodle-based Campus Learn platform.\nSupport and Training: CampusEDU will provide essential support, training in content creation, and management of enrollments and permissions.\nSustainable Growth: This partnership not only supports the growth of Strategic Assurance Consulting’s educational offerings but also expands the reach of Campus Learn’s robust platform to a wider audience.\n\n\nDale Hale, the Online Education Consultant at Strategic Assurance Consulting, has dedicated his career to enhancing the quality of educational experiences. He emphasizes, \"I'm deeply passionate about pushing education to new heights, and I firmly stand by what I see as the three key ingredients for a top-notch faculty development program: giving faculty thorough training to design engaging courses, ensuring we maintain high quality standards, and providing robust support for our faculty. Throughout my career, I've made it my mission to prioritize these elements, recognizing just how crucial they are in creating a learning environment that truly puts students first.\"\n\n\n\nThis strategic partnership marks a significant milestone in the educational technology landscape, setting a new standard for collaborative success between digital learning providers and educational consultants.\n\n\n\nStrategic Assurance Consulting is an institution’s partner in driving organizational excellence. With a focus on quality and a strategic approach to improvement, the firm specializes in crafting sustainable solutions for success, particularly in education and beyond.\n\n\n\nTheir mission is simple: to uncover, propel, and sustain excellence. Strategic Assurance Consulting holds to the highest standards, guided by principles of dedicated service, client-centeredness, process refinement, confidentiality, and knowledge sharing.\n\n\n\nFrom accreditation support to program development, faculty and staff training, document management, and financial services, they are dedicated to equipping institutions for success.\n\n\n\nWebsite: strategicassuranceconsulting.com\n\nEmail: strategicassureconsulting@gmail.com\n\nPhone: (844) 227-7967",
+      "category": "Campus",
+      "author": "test2",
+      "timestamp": "7/3/2025, 5:47:22 pm",
+      "replies": [
+        {
+          "id": "a7a98b3f-ff5b-4e94-9cdc-d1b590a88c4e",
+          "replyText": "Your dedication to providing in-depth and insightful information, along with thorough research, truly sets you apart! It's evident that you put a lot of effort and care into delivering top-notch content. Keep up the fantastic work!",
+          "replyAuthor": "test1"
+        }
+      ],
+      "categoryScore": 2,
+      "imageURL": "",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "987fbb10-bb86-44b3-b569-37a180cb9002",
+      "title": "Cultural Maturity",
+      "content": "You will notice that the top post announces the four most recently released books. Each is of major importance. The most recent, Intelligence’s Creative Multiplicity: And Its Critical Role In the Future of Understanding examines cognition’s underlying structures. Insight: Creative Systems Theory’s Radical New Picture of Human Possibility addresses what is specifically new and significant in the ideas of Creative Systems Theory. Creative Systems Theory: A Comprehensive Theory of Purpose, Change, and Interrelationship in Human Systems brings together 45 years of committed work in one encompassing volume. It is part memoir and part a summary of the best of Creative Systems Theory–related thinking. Perspective and Guidance For a Time of Discord addresses one of our time’s most critical concerns. I think you will find each well worth your time and attention.\n\nWe also now have a YouTube channel. Called “Ask the Cultural Psychiatrist,” it includes short videos that introduce culturally matter perspective and invites conversation. It can be found at https://www.youtube.com/channel/UC6KsQ1Gti32r-Gpxg5qD2YQ\n\nSome further additions. The “New Book ‘thought exercises'” section provides quick glimpses of provocative questions addressed in various of my books. Also, the new “For the Media” section is now pretty filled out. It includes long-form articles as well as short pieces suitable for stand-alone use (presented with links to more in-depth material). And for those who appreciate an audio format, you will find a link to our podcast.\n\nAs far as keeping in touch, if you click on the “Join Our List” button, you will receive monthly articles from myself along with alerts about new books as they are written. Clicking on the RSS feed button will have information about the six most recent posts sent to your RSS reader.",
+      "category": "Culture",
+      "author": "test3",
+      "timestamp": "7/3/2025, 5:49:26 pm",
+      "replies": [
+        {
+          "id": "bb484187-5430-49ac-bce8-59f5ff9b5130",
+          "replyText": "Dear [Name],\n\nI must express my appreciation for the insightful and thought-provoking content you have shared in your recent post. Your ability to articulate your ideas and engage your audience is truly commendable. I found myself thoroughly impressed by the depth of your analysis and the clarity of your arguments.\n\nI look forward to continuing to engage with your content and further exploring the topics you have raised. Your contributions to the conversation are invaluable and I am grateful for the opportunity to learn from your expertise.\n\nThank you once again for sharing your post. I eagerly anticipate what you have in store for us next.",
+          "replyAuthor": "test4"
+        }
+      ],
+      "categoryScore": 4,
+      "imageURL": "https://culturalmaturityblog.net/wp-content/uploads/2011/05/Charles-Johnston-sm-thumb.jpg",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "6d56fcbe-d21a-4752-8ea6-d5880e9fec40",
+      "title": "Community Resources: Why use community resources?",
+      "content": "Community resources are important to individuals and families. When you need information about a public service or need to learn something new, seek out and find a useful resource. Ask for help, when needed. Assistance can be a just a phone call or a computer click away; websites and phone numbers can link you with assistance and valuable information quickly.\n\nCommunity resources are like community assets. They help meet certain needs for those living in and around the county. Community resources can be used to improve the quality of community life. Often needed resources are only a phone call away. A newly discovered resource and/or a helpful resource person can be like finding valuable treasure. It is a good thing to be able to positively help another person and it is also personally rewarding to assist others in need\nWhen individuals and families actively engage with and use available resources, they can respond more effectively to their health-related, disaster and other types of identified needs. They help us develop healthy behaviors and promote independent individuals and families.\n\nUF/IFAS Extension Broward County has information on a wide range of topics from health and nutrition, food safety, disaster preparedness, saving money at the grocery store, gardening, community development and much more.\n\nOur evidence-based resources and Family and Consumer Sciences Extension agent and staff are resources that are available to help. Whether you’re retired, a parent, a teen, a visitor or somewhere in between, we’ve got Solutions for Your Life.\n\nThe Family and Consumer Sciences Extension program provides science-based information and educational programming to the community to empower individuals and families to make informed decisions about their well-being and to help them make changes to improve their health and quality of life.",
+      "category": "Local Community Resources",
+      "author": "test3",
+      "timestamp": "7/3/2025, 5:51:20 pm",
+      "replies": [
+        {
+          "id": "9bf500d9-d52a-4661-adf1-41f225cda998",
+          "replyText": "nice blog!",
+          "replyAuthor": "student2"
+        },
+        {
+          "id": "0db87863-639a-4a83-8447-183edf6048f6",
+          "replyText": "nice",
+          "replyAuthor": "test4"
+        },
+        {
+          "id": "783cc52e-7796-4f5e-a7ec-b7aeaa736af3",
+          "replyText": "Thank you for your positive feedback on our blog. We strive to provide informative and engaging content for our readers, and we are glad to hear that you appreciate it. Please feel free to reach out to us if you have any suggestions or topics you would like to see covered in future posts. We value your input and are always looking for ways to improve our blog for our audience. Thank you for your support.",
+          "replyAuthor": "test4"
+        },
+        {
+          "id": "fea54bd1-3ebf-4cfb-992d-0ed710aa2307",
+          "replyText": "very nice blog",
+          "replyAuthor": "test4"
+        },
+        {
+          "id": "a1d62d6a-5c34-4651-b4fa-1e74a14d0022",
+          "replyText": "Hey, awesome job with that! Your hard work really paid off and I can tell you put a lot of effort into it. Keep it up, you're killing it!",
+          "replyAuthor": "test5"
+        }
+      ],
+      "categoryScore": 1,
+      "imageURL": "https://blogs.ifas.ufl.edu/browardco/files/2018/01/hqdefault.jpg",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "d92bf422-2680-4ea8-81f3-6d21e829e8b6",
+      "title": "Social media marketing: What it is and how to build your strategy",
+      "content": "Social media marketing involves using platforms like Instagram, X (formerly referred to as Twitter), LinkedIn, Facebook and Pinterest to promote brands and engage with customers. It encompasses promoting new products, interacting with customers through comments and creating content that reflects a brand's values and story.\nA successful social media strategy starts with setting clear and realistic goals. A few examples of goals for social media strategies are increasing brand awareness, generating leads and sales and providing comprehensive customer care.\nA data-driven approach is essential for measuring the success of a social media strategy. These metrics help brands understand audience perception and the effectiveness of their content. Some examples of important metrics to track include reach, clicks, engagement, organic and paid likes, follower growth and conversion rate.",
+      "category": "Social",
+      "author": "testadmin",
+      "timestamp": "7/3/2025, 5:56:12 pm",
+      "replies": [
+        {
+          "id": "5bd7b3f0-35ff-4e08-9f72-d79ba44ec9c7",
+          "replyText": "Hey, awesome job on that! Your work really stood out and I wanted to give you some props for it. Keep it up!",
+          "replyAuthor": "test1"
+        }
+      ],
+      "categoryScore": 2,
+      "imageURL": "https://media.sproutsocial.com/uploads/2025/02/social-media-marketing-strategy_Final.svg",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "ba984690-dd4e-4028-8ca4-731aeee608a3",
+      "title": "2025 spring college football schedule for power conference teams",
+      "content": "College football coaches, players and fans get their first whiff of the 2025 season during spring practices, which are underway or coming soon to campuses around the country.\n\nPrograms are allowed to conduct 15 on-field practice sessions over a 34-day period. Schools traditionally have ended the practice period with a spring intrasquad game, although some are skipping the games for other events, such as fan fests or alumni games.\n\nBelow is a list of confirmed spring camp dates for schools in the four power conferences. (Teams and dates that are not listed have not been released.) Schools that are not having a traditional spring game are marked with an asterisk.",
+      "category": "Sports",
+      "author": "testadmin",
+      "timestamp": "7/3/2025, 5:58:27 pm",
+      "replies": [
+        {
+          "id": "dcb69e19-08f6-4a90-8798-a72f83540f7a",
+          "replyText": "good content",
+          "replyAuthor": "test4"
+        },
+        {
+          "id": "ea60b338-ac2b-4a04-ac47-13c5114b541b",
+          "replyText": "nice blog",
+          "replyAuthor": "test1"
+        },
+        {
+          "id": "bfd49d3e-90f9-44ba-87bf-80b15f234224",
+          "replyText": "Thanks! Glad you like it.",
+          "replyAuthor": "test4"
+        },
+        {
+          "id": "22e6f0aa-41dd-4ac7-af6f-08eb9d7d3274",
+          "replyText": "nice",
+          "replyAuthor": "test4"
+        },
+        {
+          "id": "8bba62c0-1f1c-4997-8d2c-01dc06296411",
+          "replyText": "Thanks! Glad you liked it. Let me know if you have any questions or need more info.",
+          "replyAuthor": "test4"
+        },
+        {
+          "id": "9dfe422a-c748-4dd9-993d-f66fbab0030f",
+          "replyText": "The information provided is truly exemplary and greatly contributes to the depth of knowledge on the subject matter. Its accuracy and relevance are commendable, making it a valuable resource for further research and analysis.",
+          "replyAuthor": "test1"
+        }
+      ],
+      "categoryScore": 3,
+      "imageURL": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0305%2Fr1459853_1296x729_16%2D9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "63339ad4-9b8e-4f73-b8fe-bffb4528d6e4",
+      "title": "Preventing Falls During Colder Months",
+      "content": "The cold winter months are upon us, and that means paying closer attention to falls prevention. According to the Centers for Disease Control and Prevention (CDC), more than 3 million older adults are treated for falls in emergency departments across the country each year. More than 1 million patients are hospitalized as a result of these falls.\n\nFelicia Cruz, MSN, APRN, AGCNS-BC, RN-BC, geriatric clinical nurse specialist at Bayhealth says planning is crucial when it comes to falls prevention. “There are lots of simple steps we can all take to improve safety in and around our homes.”\n\nClear line of sight\nFirst and foremost, it’s important that older adults can see where they are going. The colder months can sometimes lead to an issue with glasses fogging, especially when wearing a facemask.\n\n“It’s important for everyone to take the time to clean their glasses whenever they are fogged to maintain a clear line of sight at all times,” said Cruz. “I’ve found that snugly securing the nose area of a mask prevents air leaks, which helps minimize fogging.”\n\nDoctor visits\nIt’s also important for older adults to make sure their vision and hearing screenings as well as medications are up to date.\n\n“Typically, we encourage our older population to maintain their schedules for doctors’ appointments,” said Cruz. “The great thing is many offices are now using telehealth and other ways to stay connected with their patients during inclement winter weather. Something like a medication review could be done virtually to help protect vulnerable individuals.”\n\nGround safety\nAll individuals, including older adults, need to be especially aware of where they’re walking. “In the winter, be mindful that the walkways and roads may be icy, so take extra precaution when parking. Many times, people don’t realize they’ve parked on an icy patch and experience a fall while trying to get out of their vehicle,” added Cruz.\n\nAnother consideration is footwear and indoor clutter. The best shoes to wear to prevent falls are those with rubber soles. They will provide the most grip. Additionally, if there are any grandparents doing double duty right now helping with childcare, make sure to check for clutter on the floor. Toys and other small objects could easily cause a fall. It’s important that walkways remain clear.\n\nDistracted walking\nWhile it sounds silly, multi-tasking while walking is a big culprit that causes falls.\n\n“You should always have both of your arms available whenever walking to help establish and maintain your balance. That means you should never be walking while looking at your phone. It also means you shouldn’t be carrying a lot while walking either,” said Cruz.",
+      "category": "Health and Wellness",
+      "author": "student1",
+      "timestamp": "7/3/2025, 6:01:23 pm",
+      "replies": [
+        {
+          "id": "075ed9ad-d82d-4e86-9f4a-fd0645f4b03b",
+          "replyText": "Dear esteemed author,\n\nI must express my admiration for your exquisitely written post. Your eloquent words and insightful perspectives have truly captivated my attention. Your depth of knowledge and unwavering passion shine brightly through each paragraph, leaving me in awe of your writing prowess. I eagerly anticipate reading more of your remarkable work in the future.\n\nWarm regards,\n\n[Your Name]",
+          "replyAuthor": "test4"
+        }
+      ],
+      "categoryScore": 5,
+      "imageURL": "https://www.bayhealth.org/-/media/images/community-health-and-wellness/blog/2025/january/winter-slip-and-falls.jpg?h=438&iar=0&w=730&hash=7B9A51EF842585A38AE9860491BCF6AC",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "81023589-5feb-4445-b8ad-7808588de57b",
+      "title": "Amazon Moves To Make Alexa Smart",
+      "content": "When we started with digital assistants, Microsoft potentially had the inside track. Its Cortana effort was named after the Halo AI character, which gave it far more potential than the others.\n\nApple had a decent shot, too. It marketed Siri very well but didn’t seem to want to fund its advancement, while Amazon just shipped product after product that used Alexa.\n\nGoogle was no slouch either, pivoting hard to its Gemini product (which I use a lot) for Pixel smartphones.\n\nWhat I find fascinating is that Panos Panay, the guy who pretty much made the Microsoft Surface line a thing and drove my favorite phone, the Surface Duo, is now at Amazon and apparently doing there what should have happened at Microsoft with Cortana.\n\nLet’s discuss how we got here, what to expect, and why this move from Amazon will be a game-changer. We’ll close with my Product of the Week: AMD’s new RX 9070 and RX 9070 XT graphics cards.",
+      "category": "Technology",
+      "author": "student1",
+      "timestamp": "7/3/2025, 6:03:04 pm",
+      "replies": [
+        {
+          "id": "7d47dd50-c531-454f-80fe-f5c81a9e80be",
+          "replyText": "Hey there, your content is really impressive! I love how engaging and informative it is. Keep up the great work - I can't wait to see more from you!",
+          "replyAuthor": "test1"
+        }
+      ],
+      "categoryScore": 4,
+      "imageURL": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/03/alexa-plus-logo.jpg",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "11265ad0-b06b-43cc-b88d-600f73ba48c2",
+      "title": "My Life as a Travel Blogger: An Unexpected Journey",
+      "content": "Ten years ago, if you told me that I would be a travel blogger at this point in my life, I would have called you crazy!! And here I am.\n\nWhat started out as a little travel blog to keep friends and family up-to-date on our around the world trip has grown into something much bigger. This unexpected journey has been a life changing experience, not only for me, but also for Tim, Tyler, and Kara.\n\nIf you have dreams of starting your own travel blog, or you just want to learn more about our story, fix yourself a cup of coffee (or a glass of wine 😊), sit back, and enjoy.",
+      "category": "Travel",
+      "author": "student1",
+      "timestamp": "7/3/2025, 6:04:22 pm",
+      "replies": [],
+      "categoryScore": 1,
+      "imageURL": "https://www.earthtrekkers.com/wp-content/uploads/2020/05/Julie-Rivenbark-1-1536x809.jpg.webp",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "29c0cd80-2df0-4873-a6fb-bd6df0d3573f",
+      "title": "Alumni & Advancement: Agree on a Definition of Engagement",
+      "content": "67% of higher education institutions report they struggle with alumni engagement.\n\n87% of alumni organizations report they “do a poor job,” or “need to do more” to engage young alumni.\n\n27% admit they have no strategy to boost engagement. (Because that metric is self-reported, I’m guessing the real number is significantly higher.)\n\nAlumni engagement remains a significant challenge for numerous alumni/advancement professionals, sparking continuous discussions within the field. But what exactly does it mean? Why does it vary in interpretation across different organizations and even within different departments of the same institution?\n\nHonestly, \"alumni engagement\" has been tossed around in various contexts with vague definitions so frequently that it's on the verge of becoming a tired cliché. With its broad interpretations and overuse, the term risks losing its significance altogether.\n\nIf I do a specific Google search for “alumni engagement” (with quotes) I get a gazillion results. More often than not, it’s used in the context of “metrics.” There seems to be an abundance of chatter around measuring alumni engagement, crafting an engagement index, or utilizing predictive scoring models - all of which are undoubtedly valuable insights.\n\nBut let's set aside the metrics discussion for now. How about we come up with a definition that actually makes sense for most institutions? Call me ambitious. Call me optimistic. But having a clear definition that everyone agrees on could really step up your game in alumni engagement.\n\nDefining alumni engagement clearly at the institutional level can help your team grasp the essence of success, steering them away from the pitfalls of focusing solely on short-term objectives and fluctuating performance metrics that may impede long-term progress.",
+      "category": "Alumni",
+      "author": "student1",
+      "timestamp": "7/3/2025, 6:05:53 pm",
+      "replies": [],
+      "categoryScore": 2,
+      "imageURL": "https://blog.alumniaccess.com/hs-fs/hubfs/AdobeStock_222460982%20-%20attraction.jpeg?width=582&height=333&name=AdobeStock_222460982%20-%20attraction.jpeg",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    },
+    {
+      "id": "b3193d3a-d267-4eaf-8a1f-03724694e514",
+      "title": "Illinois Institute of Technology",
+      "content": "It is situated near t0 35th street",
+      "category": "Campus",
+      "author": "student2",
+      "timestamp": "8/3/2025, 1:07:39 am",
+      "replies": [],
+      "categoryScore": 2,
+      "imageURL": "",
+      "externalLink": "",
+      "reports": [],
+      "isReported": false,
+      "isUnderReview": false,
+      "isApproved": true
+    }
+  ],
+  "subscriptions": {
+    "test2": {},
+    "test1": {
+      "Local Community Resources": true,
+      "Culture": true,
+      "Social": true
+    },
+    "test3": {
+      "Health and Wellness": true,
+      "Academic Resources": true
+    },
+    "test5": {
+      "Culture": true
+    },
+    "manogna": {
+      "Local Community Resources": true,
+      "Sports": true
+    }
+  },
+  "notifications": [
+    {
+      "id": "fb6421f2-487f-4e2b-8880-0156004151f8",
+      "userId": "test3",
+      "message": {
+        "title": "friends",
+        "category": "Health and Wellness",
+        "message": "New post in Health and Wellness: friends"
+      },
+      "topic": "Health and Wellness",
+      "timestamp": "2025-03-22T08:01:23.472Z",
+      "isRead": false
+    },
+    {
+      "id": "4d6a65b2-5a9a-45c4-bd3e-c6bd0790c7e9",
+      "userId": "test3",
+      "message": {
+        "title": "vmkefv",
+        "category": "Academic Resources",
+        "message": "New post in Academic Resources: vmkefv"
+      },
+      "topic": "Academic Resources",
+      "timestamp": "2025-03-24T02:13:54.198Z",
+      "isRead": false
+    },
+    {
+      "id": "a2bc467f-fb20-4cb1-8601-0363b53b7239",
+      "userId": "manogna",
+      "message": {
+        "title": "qscfvfv",
+        "category": "Sports",
+        "message": "New post in Sports: qscfvfv"
+      },
+      "topic": "Sports",
+      "timestamp": "2025-03-25T05:56:22.624Z",
+      "isRead": false
+    }
+  ]
+}
