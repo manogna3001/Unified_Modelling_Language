@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "username": "test1",
+      "email": "test1@gmail.com",
+      "password": "$2b$10$nq4iI/BzZziUSWcJAoXite0KFw9PwRSzQE0.1zsl5C1Du4a5Hh.x6",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "test2",
+      "email": "test2@gmail.com",
+      "password": "$2b$10$r27glEsh5YDX09JPljT8I./ELFNa29EBQtppiL5uVoFULUXBIwYPm",
+      "persona": "Faculty",
+      "isEnabled": true
+    },
+    {
+      "username": "test3",
+      "email": "test@gmail.com",
+      "password": "$2b$10$gWjZIZbES8jpoWghhSGTzeYvTCFP4gDavY1HEup/sOwG2MjYqFotq",
+      "persona": "Staff"
+    },
+    {
+      "username": "test5",
+      "email": "test5@gmail.com",
+      "password": "$2b$10$qqmFPiLKvfcG5CzvD2yMLuYbbceHuHdzEqcqxTiPTqpkwIqWTJbu2",
+      "persona": "Administrator",
+      "isEnabled": true
+    },
+    {
+      "username": "testadmin",
+      "email": "admin@gmail.com",
+      "password": "$2b$10$4gSSYgnXjiIsw4yZrliMtuD5JPkqkSHJcicW107EEWxTVQNTmoeVa",
+      "persona": "Administrator",
+      "isEnabled": true
+    },
+    {
+      "username": "test4",
+      "email": "test4@gmail.com",
+      "password": "$2b$10$Lyytwcx58M/rChLEJvkgFuVWCIRH49TxJe5dM4EOcavEsungx0Mm.",
+      "persona": "Moderator",
+      "isEnabled": true
+    },
+    {
+      "username": "student",
+      "email": "student@gmail.com",
+      "password": "$2b$10$RPXG.m2nMe/ahimfMLfRou8ZcDCHOxzfv9LJW9Ztdjbn7.HDR0Dc6",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "student1",
+      "email": "student1@gmail.com",
+      "password": "$2b$10$8FUMjOhvNxCRW0pazriTju6LG7KFECLyqpHgHZNXJkYTV4nFXAuti",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "student2",
+      "email": "student2@gmail.com",
+      "password": "$2b$10$TOo5KUrfITlo5ykzWwDqZe/uvCOjfNhiI7c9/8W2PkGXdw1w38ypS",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "a1",
+      "email": "a1@gmail.com",
+      "password": "$2b$10$sL6wlYG8BMpE9VnOhdIzQOa4/n8exCMLf9Lt.K5CRoajiNF7Wofn.",
+      "persona": "Student",
+      "isEnabled": true
+    },
+    {
+      "username": "a3",
+      "email": "a3@gmail.com",
+      "password": "$2b$10$lwy3VLNZxiol7pq13Dz3JO3AjSZLsvESt.7xLIH47bOfzsz4.SeD2",
+      "persona": "Moderator",
+      "isEnabled": true
+    }
+  ]
+}
