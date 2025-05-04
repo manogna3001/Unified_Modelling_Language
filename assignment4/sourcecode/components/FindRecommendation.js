@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { Button, Modal, Box, Typography, TextField } from '@mui/material';
 
 
-const OPENAI_API_KEY='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';
+const OPENAI_API_KEY=' ';
 
 const openai = new OpenAI({
   apiKey: OPENAI_API_KEY,
